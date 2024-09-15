@@ -1,20 +1,183 @@
 [
     {
-        "id": 1,
-        "title": "Book One",
-        "author": "Author One",
-        "chapters": [
-            { "id": 1, "title": "Chapter 1", "file": "chapter1.html" },
-            { "id": 2, "title": "Chapter 2", "file": "chapter2.html" }
-        ]
+      "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F07%2Fchances-are-1-2000.jpg&q=85",
+      "title": "Changes Are",
+      "author": "Richard Russo",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Samantha William"
+          },
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": null
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": null
+          }
+        ],
+        "text": "Samantha William and 2 other friends like this"
+      }
     },
     {
-        "id": 2,
-        "title": "Book Two",
-        "author": "Author Two",
-        "chapters": [
-            { "id": 1, "title": "Chapter 1", "file": "chapter1.html" },
-            { "id": 2, "title": "Chapter 2", "file": "chapter2.html" }
-        ]
+      "img": "https://images-na.ssl-images-amazon.com/images/I/7167iiDUeAL.jpg",
+      "title": "Dominicana",
+      "author": "Angie Cruz",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Kimberly Jones"
+          }
+        ],
+        "text": "Kimberly Jones like this"
+      }
+    },
+    {
+      "img": "https://assets.fontsinuse.com/static/use-media-items/95/94294/full-2000x3056/5d56c6b1/cg%201.jpeg?resolution=0",
+      "title": "The Travellers",
+      "author": "Regina Porter",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Adam"
+          },
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": "Kimberly"
+          }
+        ],
+        "text": "Adam and Kimberly like this"
+      }
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91M4E+SURUL.jpg",
+      "title": "Afternoon Of A Faun",
+      "author": "James Lasdun",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Samantha William"
+          },
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": null
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": null
+          }
+        ],
+        "text": "Samantha William and 2 other friends like this"
+      }
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61OTY2-4anL.jpg",
+      "title": "Flash Count Diary",
+      "author": "Darcey Steinke",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Angelina Stone"
+          },
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": null
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": null
+          }
+        ],
+        "text": "Angelina Stone and 2 other friends like this"
+      }
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61Vc+xM23GL.jpg",
+      "title": "Picnic Comma Lightning",
+      "author": "Lucy Parker",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": "George"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": "Mike"
+          }
+        ],
+        "text": "George and Mike like this"
+      }
+    },
+    {
+      "img": "https://prodimage.images-bn.com/pimages/9780525655633_p0_v5_s1200x630.jpg",
+      "title": "Very Nice",
+      "author": "Lucy Parker",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Samantha William"
+          },
+          {
+            "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png",
+            "name": null
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": null
+          }
+        ],
+        "text": "Samantha William and 2 other friends like this"
+      }
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71PL7BiZ5NL.jpg",
+      "title": "Stay And Fight",
+      "author": "Lucy Parker",
+      "rating": 5,
+      "voters": "1,987 voters",
+      "summary": "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years.",
+      "likes": {
+        "profiles": [
+          {
+            "img": "https://randomuser.me/api/portraits/women/63.jpg",
+            "name": "Samantha William"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+            "name": "Jonathan"
+          }
+        ],
+        "text": "Samantha William and Jonathan like this"
+      }
     }
-]
+  ]
+  
