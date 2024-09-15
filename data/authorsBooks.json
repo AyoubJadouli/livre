@@ -1,0 +1,55 @@
+{
+  "authorsOfTheWeek": [
+    {
+      "name": "Sebastian Jeremy",
+      "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "name": "Jonathan Doe",
+      "img": "https://images.unsplash.com/photo-1586297098710-0382a496c814?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+      "name": "Angeline Summer",
+      "img": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "name": "Noah Jones",
+      "img": "https://pbs.twimg.com/profile_images/737221709267374081/sdwta9Oh.jpg"
+    },
+    {
+      "name": "Tommy Adam",
+      "img": "https://pbs.twimg.com/profile_images/2452384114/noplz47r59v1uxvyg8ku.png"
+    },
+    {
+      "name": "Ian Cassandra",
+      "img": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "booksOfTheYear": [
+    {
+      "title": "Disappearing Earth",
+      "author": "by Julia Phillips",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/A1kNdYXw0GL.jpg"
+    },
+    {
+      "title": "Lost Children Archive",
+      "author": "by Valeria Luiselli",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81eI0ExR+VL.jpg"
+    },
+    {
+      "title": "Phantoms: A Thriller",
+      "author": "by Dean Koontz",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81OF9eJDA4L.jpg"
+    },
+    {
+      "title": "Midnight in Chernobyl",
+      "author": "by Adam Higginbotham",
+      "img": "https://m.media-amazon.com/images/I/515FWPyZ-5L.jpg"
+    },
+    {
+      "title": "10 Minutes 38 Seconds",
+      "author": "by Elif Shafak",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91dBtgERNUL.jpg"
+    }
+  ]
+}

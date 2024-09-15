@@ -1,0 +1,30 @@
+{
+    "booksOfTheYear": [
+      {
+        "title": "Disappearing Earths",
+        "author": "by Julia Phillips",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/A1kNdYXw0GL.jpg"
+      },
+      {
+        "title": "Lost Children Archive",
+        "author": "by Valeria Luiselli",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81eI0ExR+VL.jpg"
+      },
+      {
+        "title": "Phantoms: A Thriller",
+        "author": "by Dean Koontz",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81OF9eJDA4L.jpg"
+      },
+      {
+        "title": "Midnight in Chernobyl",
+        "author": "by Adam Higginbotham",
+        "img": "https://m.media-amazon.com/images/I/515FWPyZ-5L.jpg"
+      },
+      {
+        "title": "10 Minutes 38 Seconds",
+        "author": "by Elif Shafak",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91dBtgERNUL.jpg"
+      }
+    ]
+  }
+  
